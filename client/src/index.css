@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+body {
+  background:
+  linear-gradient(
+    rgba(0, 0, 0, 0.3), 
+    rgba(0, 0, 0, 0.3)
+  ),
+  url(https://wallpapercave.com/wp/wp2708104.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  z-index: 5;
+}

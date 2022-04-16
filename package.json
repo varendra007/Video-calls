@@ -1,0 +1,26 @@
+{
+  "name": "video-calls",
+  "version": "1.0.0",
+  "description": "A project to enable two remote users to do a one to one video call",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samyc2002/Video-Calls.git"
+  },
+  "author": "Samy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samyc2002/Video-Calls/issues"
+  },
+  "homepage": "https://github.com/Samyc2002/Video-Calls#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.1.2"
+  }
+}
